@@ -1,7 +1,10 @@
 # Maya_Plugin_Hello_World
 A plugin for Maya that writes Hello World
 
-Based on the tutorial by Chad Vernon
+Based on the tutorials by Chad Vernon:
+* http://www.chadvernon.com/blog/resources/maya-api-programming/your-first-plug-in/
+* http://www.chadvernon.com/blog/maya/compiling-maya-plug-ins-with-cmake/
+
 
 Build on OSX:
   * mkdir build
